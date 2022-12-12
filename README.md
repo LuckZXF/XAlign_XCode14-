@@ -1,4 +1,4 @@
-XAlign (Ready for Xcode 8+ 🚀)
+XAlign (Ready for Xcode 14+ 🚀)
 ======
 
 An amazing Xcode Source Editor extension to align regular code. It can align anything by using custom alignment patterns.
@@ -27,7 +27,7 @@ Here are some example alignment patterns. Of course you can make your own. The p
 
 - [x] Much easier to customize alignment patterns.
 
-## Install on Xcode 8
+## Install on Xcode 14
 1. Download the [XAlign.dmg📎](https://github.com/qfish/XAlign/releases/download/v1.0/XAlign.1.0.dmg) or [XAlign.app.zip📎](https://github.com/qfish/XAlign/releases/download/v1.0/XAlign.app.zip)
 2. Open and copy `XAlign.app` to `/Applications` folder
 3. Run it then close it.
